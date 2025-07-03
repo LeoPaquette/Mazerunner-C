@@ -1,4 +1,4 @@
-# Mazerunner-C
+# Mazerunner
 
 A console-based maze navigation game written in C.  
 This project demonstrates dynamic memory management, recursive maze generation, user input handling, and simple game state tracking.
